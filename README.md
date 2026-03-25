@@ -13,12 +13,23 @@ Backend Systems • System Integration • Operational Automation
 ## About
 Technical professional with a strong backend and implementation foundation, currently leading technical delivery at **Lacak.io**.  
 Focused on building reliable operational systems for GPS tracking, fleet operations, IoT solutions, and real-time workflows.
+Most production work is delivered through private repositories and internal systems.
 
 ## What I Work On
 - System integration across internal services, partner APIs, and operational platforms
 - Backend systems for real-time tracking, fleet workflows, and operational visibility
 - Operational automation that improves speed, consistency, and execution quality
 - Engineering decisions aligned with business and field operations
+
+## Impact Highlights
+- Delivered a Fleet Management System (FMS) initiative with an estimated efficiency gain of **~IDR 300M** from a single-user baseline, with higher upside as full user rollout progresses
+- Built and integrated API services for SPX operational workflows, supporting automation and BI pipelines that contributed to **up to 50% faster report processing**, **up to 400% faster facility expansion monitoring deliverables**, **>90% order forecasting accuracy**, and **>85% engagement** on near-real-time SLA visibility dashboards
+- Improved pick-up assignment visibility and lead-time tracking through centralized operational dashboards
+- Optimized ETL workflows (Python/SQL) to improve reporting efficiency and reduce query execution time
+- Tuned FMS infrastructure to improve backend performance and operational reliability under real usage
+- Developed AI-based fatigue monitoring to improve operational safety and real-time awareness
+- Built a PLMS solution for mining operations
+- Delivered custom reporting systems for **JNTC, JNTX, and BUMA**
 
 ## Domain Focus
 ![GPS Tracking](https://img.shields.io/badge/GPS_Tracking-0F172A?style=flat-square)
@@ -44,15 +55,6 @@ Focused on building reliable operational systems for GPS tracking, fleet operati
 - Expanding my **AI engineering journey** through practical operational use cases
 - Building **intelligent automation** on top of existing backend and integration layers
 - Exploring AI-assisted decision support for operational systems
-
-<details>
-<summary><b>GitHub Snapshot (Optional)</b></summary>
-<br/>
-<p>
-  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ridzkyyy&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ridzkyyy&hide_border=true" />
-</p>
-</details>
 
 ## Contact
 - LinkedIn: [https://id.linkedin.com/in/ridzky-guntur-nuriawan-10346a1bb](https://id.linkedin.com/in/ridzky-guntur-nuriawan-10346a1bb)
